@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = hugomulheim@hotmail.fr
+	name = Hugo Mulheim
